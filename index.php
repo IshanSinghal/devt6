@@ -1,7 +1,7 @@
 <pre>
 <?php
 
-print("Getting started Task6");
+print("App with Jenkinsfile - Groovy");
 
 
 ?>
